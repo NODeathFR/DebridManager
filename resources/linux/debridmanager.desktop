@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Debrid Manager
+Comment=Client RealDebrid / AllDebrid : liens, magnets et fichiers .torrent
+Exec=DebridManager %U
+Icon=debridmanager
+Terminal=false
+Categories=Network;FileTransfer;
+StartupWMClass=DebridManager
